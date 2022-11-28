@@ -2,7 +2,7 @@ import React from 'react';
 
 const Banner = () => {
     return (
-        <div className="hero  bg-base-200">
+        <div className="hero ">
             <div className="hero-content flex-col lg:flex-row-reverse">
                 <img src="https://img.freepik.com/premium-psd/car-rental-sale-horizontal-banner-facebook-cover-advertising-template_177160-634.jpg?w=2000" className="max-w-lg rounded-lg shadow-2xl" alt='' />
                 <div>
